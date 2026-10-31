@@ -1,7 +1,7 @@
 ```
                   @
           @@@@@@@%%%%&&@@@@
-       @@@     @@@@%%%%&&##@@@           milosz@fedora
+       @@@     @@@@%%%%&&##@@@           leptokaria@fedora
      @@         @@@@%%%&&&##**@@         ─────────────────────────────────────────
     @           @@@%%%%&&&##**++@         OS         Fedora Linux (daily driver)
   @@           @@@@%%%    ##**++=@@       Role       IT Security Specialist
