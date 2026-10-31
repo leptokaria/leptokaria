@@ -4,14 +4,14 @@
        @@@     @@@@%%%%&&##@@@           milosz@fedora
      @@         @@@@%%%&&&##**@@         ─────────────────────────────────────────
     @           @@@%%%%&&&##**++@         OS         Fedora Linux (daily driver)
-  @@           @@@@%%%%&&&##**++=@@       Role       IT Security Specialist
-  @@          @@     %&&&###**++=:@       Uptime     Security since 2025
- @@@@      @@@ .-----. &###**++==::@      Shell      Blue team · Detection · IR
- @%@@@@@@@@@@  I     I  ##**+++=:::@      Kernel     Python · Bash · Linux
-@@%%%%%@%%%%%  I-----I  ***+++==:::@@     Packages   Docker · Kubernetes · Git
- @&%%%%%%%%%%  I     I  **++===::::@      SIEM       Elastic · rules · MITRE ATT&CK
- @&&&&&&&&&&&& '-----' *+++==::::::@      Defense    EDR/XDR · threat hunting
-  @###&&&&&#####     *+++===::::::@       Offense    nmap · Nessus · OpenVAS · Metasploit · Burp
+  @@           @@@@%%%    ##**++=@@       Role       IT Security Specialist
+  @@          @@@@%%       #**++=:@       Uptime     Security since 2025
+ @@@@      @@@@@%%%%   8    *++==::@      Shell      Blue team · Detection · IR
+ @%@@@@@@@@@@@%%%%%&&      *+++=:::@      Kernel     Python · Bash · Linux
+@@%%%%%@%%%%%%%%%&&&&###***+++==:::@@     Packages   Docker · Kubernetes · Git
+ @&%%%%%%%%%%%&&&&&####***++===::::@      SIEM       Elastic · rules · MITRE ATT&CK
+ @&&&&&&&&&&&&&&#####***+++==::::::@      Defense    EDR/XDR · threat hunting
+  @###&&&&&#######****+++===::::::@       Offense    nmap · Nessus · OpenVAS · Metasploit · Burp
   @@*########******++++===:::::::@@       Intel      MISP · OpenCTI · IoC enrichment
     @+********++++++===:::::::::@         Repos      automated-pentest-platform
      @@++++++++=====::::::::::@@          Hobby      Crossfit · triathlon · homelab
