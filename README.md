@@ -4,11 +4,11 @@
        @@@     @@@@%%%%&&##@@@           milosz@fedora
      @@         @@@@%%%&&&##**@@         ─────────────────────────────────────────
     @           @@@%%%%&&&##**++@         OS         Fedora Linux (daily driver)
-  @@           @@@@%  .-.  #**++=@@       Role       IT Security Specialist
-  @@          @@@@    I I   **++=:@       Uptime     Security since 2025
- @@@@      @@@@@%%    I-I   *++==::@      Shell      Blue team · Detection · IR
- @%@@@@@@@@@@@%%%%    I I   +++=:::@      Kernel     Python · Bash · Linux
-@@%%%%%@%%%%%%%%%&&&  '-' *+++==:::@@     Packages   Docker · Kubernetes · Git
+  @@           @@@@%%%    ##**++=@@       Role       IT Security Specialist
+  @@          @@@@%%       #**++=:@       Uptime     Security since 2025
+ @@@@      @@@@@%%%%   8    *++==::@      Shell      Blue team · Detection · IR
+ @%@@@@@@@@@@@%%%%%&&      *+++=:::@      Kernel     Python · Bash · Linux
+@@%%%%%@%%%%%%%%%&&&&###***+++==:::@@     Packages   Docker · Kubernetes · Git
  @&%%%%%%%%%%%&&&&&####***++===::::@      SIEM       Elastic · rules · MITRE ATT&CK
  @&&&&&&&&&&&&&&#####***+++==::::::@      Defense    EDR/XDR · threat hunting
   @###&&&&&#######****+++===::::::@       Offense    nmap · Nessus · OpenVAS · Metasploit · Burp
